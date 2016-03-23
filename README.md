@@ -11,3 +11,7 @@ Navigate into the project directory: `cd ArduinoMotorPotentiometer/motorPotentio
 Open the Arduino project: `open motorPotentiometer.ino`
 
 Verify and upload the project to your Arduino.
+
+## Circuit Diagram
+
+![Circuit Diagram](/Circuit.png?raw=true "Circuit Diagram")
